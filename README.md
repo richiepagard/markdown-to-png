@@ -69,5 +69,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
-- GitHub: [mohammadpagard](https://github.com/mohammadpagard) (Richie)
-- Email: mohammadpagard.dev@gmail.com
+- GitHub: [richiepagard](https://github.com/richiepagard) (Richie)
+- Email: richiepagard@gmail.com
